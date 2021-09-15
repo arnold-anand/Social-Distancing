@@ -26,6 +26,7 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
     python downloader.py --name person-detection-retail-0013 -o (specify the output path.)
   
     python downloader.py --name person-reidentification-retail-0288 -o (specify the output path.)
+    
   
 5. cd C:\Users\<username>\Documents\Intel\OpenVINO\omz_demos_build\intel64\Release
   
