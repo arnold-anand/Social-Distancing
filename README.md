@@ -44,7 +44,7 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
   
     social_distance_demo.exe -h
   
-  for usage instructions.
+    for usage instructions.
   
 2. If CMD is closed the varibles are lost and have setupvars.bat is needed to ran again.
 
@@ -53,4 +53,3 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
     social_distance_demo.exe -i 0 -m_det person-detection-retail-0013.xml -m_reid person-reidentification-retail-0288.xml
   
     to use webcam feed as the input for this program.
-4. 
