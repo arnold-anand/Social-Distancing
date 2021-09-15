@@ -34,5 +34,22 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
   ![image](https://user-images.githubusercontent.com/80956623/133461793-585f2b74-8603-4744-95ea-de91bef1cb98.png)
 
 6. Finally enter the following command
+  
   social_distance_demo.exe -i sample.mp4 -m_det person-detection-retail-0013.xml -m_reid person-reidentification-retail-0288.xml
 ## Output sample
+
+  ![image](https://user-images.githubusercontent.com/80956623/133463374-76543ef7-f835-4084-a915-a5bfadc607ff.png)
+### Note
+1. Use
+  
+  social_distance_demo.exe -h
+  
+  for usage instructions.
+  
+2. If CMD is closed the varibles are lost and have setupvars.bat is needed to ran again.
+
+3. Use 
+  
+  social_distance_demo.exe -i 0 -m_det person-detection-retail-0013.xml -m_reid person-reidentification-retail-0288.xml
+  
+  to use webcam feed as the input for this program.
