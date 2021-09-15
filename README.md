@@ -11,7 +11,7 @@ Social distance application that detects people and measures the distance betwee
 
 Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html
 
-#### Getting Started
+### Getting Started
 
 1. Navigate to <Installation Directory>\Intel\openvino_2021.4.582\bin using command prompt (CMD) and initialise the environment variables.
 2. Enter the following in the CMD
