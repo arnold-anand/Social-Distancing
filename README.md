@@ -23,9 +23,9 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
 3. cd <Installation Directory>\Intel\openvino_2021.4.582\deployment_tools\tools\model_downloader
 4. Download the two models using the following commands
   
-  python downloader.py --name person-detection-retail-0013 -o (specify the output path.)
+    python downloader.py --name person-detection-retail-0013 -o (specify the output path.)
   
-  python downloader.py --name person-reidentification-retail-0288 -o (specify the output path.)
+    python downloader.py --name person-reidentification-retail-0288 -o (specify the output path.)
   
 5. cd C:\Users\<username>\Documents\Intel\OpenVINO\omz_demos_build\intel64\Release
   
@@ -35,4 +35,4 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
 
 6. Finally enter the following command
   social_distance_demo.exe -i sample.mp4 -m_det person-detection-retail-0013.xml -m_reid person-reidentification-retail-0288.xml
-#Output sample
+## Output sample
