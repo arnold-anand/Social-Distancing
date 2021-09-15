@@ -1,17 +1,17 @@
 # Social-Distancing
 Social distance application that detects people and measures the distance between them. If this distance is less than a value previously provided by the user, then an alert is triggered.
 
-#Pre Requisites
+##Pre Requisites
 1. Intel OpenVino
 2. Python
 3. Cmake
 4. Visual Studio
 
-#Installation Instructions
+###Installation Instructions
 
 Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_windows.html
 
-#Getting Started
+####Getting Started
 
 1. Navigate to <Installation Directory>\Intel\openvino_2021.4.582\bin using command prompt (CMD) and initialise the environment variables.
 2. Enter the following in the CMD
