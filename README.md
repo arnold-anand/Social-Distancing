@@ -1,5 +1,5 @@
 # Social-Distancing
-Social distance application that detects people and measures the distance between them. If this distance is less than a value previously provided by the user, then an alert is triggered.
+Social distance application that detects people and measures the distance between them using Intel Openvino. If this distance is less than a value previously provided by the user, then an alert is triggered.
 
 ## Pre Requisites
 1. Intel OpenVino
