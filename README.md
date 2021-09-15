@@ -29,8 +29,10 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
   
 5. cd C:\Users\<username>\Documents\Intel\OpenVINO\omz_demos_build\intel64\Release
   
-  Copy the downloaded models from FP 32 into the release folder.s
+  Copy the downloaded models from FP 32 into the release folder.
+  
   Copy the test video file into the release folder as well
+  
   ![image](https://user-images.githubusercontent.com/80956623/133461793-585f2b74-8603-4744-95ea-de91bef1cb98.png)
 
 6. Finally enter the following command
