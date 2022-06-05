@@ -50,7 +50,7 @@ Kindly refer to https://docs.openvinotoolkit.org/latest/openvino_docs_install_gu
   
     for usage instructions.
   
-2. If CMD is closed the varibles are lost and have setupvars.bat is needed to ran again.
+2. If CMD is closed the varibles are lost and setupvars.bat is needs to be launched again to re-initialize the variables.
 3. Preferably run the Command Prompt as admin.
 4. Use 
   
